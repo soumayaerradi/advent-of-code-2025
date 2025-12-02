@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "scripts": {
+    "day1": "ts-node day1/day1.ts",
+    "day2": "ts-node day2/day2.ts"
+  },
+  "author": "Soumaya Erradi",
+  "license": "MIT",
+  "description": "Advent of Code 2025",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
