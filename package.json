@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "day1": "ts-node day1/day1.ts",
-    "day2": "ts-node day2/day2.ts"
+    "day2": "ts-node day2/day2.ts",
+    "day3": "ts-node day3/day3.ts",
+    "day4": "ts-node day4/day4.ts"
   },
   "author": "Soumaya Erradi",
   "license": "MIT",
