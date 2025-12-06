@@ -6,7 +6,8 @@
     "day2": "ts-node day2/day2.ts",
     "day3": "ts-node day3/day3.ts",
     "day4": "ts-node day4/day4.ts",
-    "day5": "ts-node day5/day5.ts"
+    "day5": "ts-node day5/day5.ts",
+    "day6": "ts-node day6/day6.ts"
   },
   "author": "Soumaya Erradi",
   "license": "MIT",
