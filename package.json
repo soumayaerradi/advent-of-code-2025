@@ -10,7 +10,9 @@
     "day6": "ts-node day6/day6.ts",
     "day7": "ts-node day7/day7.ts",
     "day8": "ts-node day8/day8.ts",
-    "day9": "ts-node day9/day9.ts"
+    "day9": "ts-node day9/day9.ts",
+    "day10": "ts-node day10/day10.ts",
+    "day10-z3": "ts-node day10/day10-z3.ts"
   },
   "author": "Soumaya Erradi",
   "license": "MIT",
@@ -18,5 +20,8 @@
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "z3-solver": "^4.15.4"
   }
 }
