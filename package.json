@@ -13,7 +13,8 @@
     "day9": "ts-node day9/day9.ts",
     "day10": "ts-node day10/day10.ts",
     "day10-z3": "ts-node day10/day10-z3.ts",
-    "day11": "ts-node day11/day11.ts"
+    "day11": "ts-node day11/day11.ts",
+    "day12": "ts-node day12/day12.ts"
   },
   "author": "Soumaya Erradi",
   "license": "MIT",
